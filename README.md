@@ -1,20 +1,20 @@
 # RaquelQuaglia_HW1
 Unit 1 Homework Assignment: FinTech Case Study
 
-1.- Select a Fintech domain that interests you, and then choose a company or project within that domain.
-Domain: Investment Management
-Company within Domain: NinjaTrader
+*1.- Select a Fintech domain that interests you, and then choose a company or project within that domain.
+*Domain: Investment Management
+*Company within Domain: NinjaTrader
 
-2.- Research the domain and company.
+*2.- Research the domain and company.
 
 # TITLE
-NinjaTrader 
+*NinjaTrader 
 
 ## Overview and Origin
-	Founded in 2003, NinjaTrader offers software and brokerage services for active traders. With a funded account, the NinjaTrader platform is free to use for charting, market analysis, and live trading (the SIM version is free even without a funded account).
+*	Founded in 2003, NinjaTrader offers software and brokerage services for active traders. With a funded account, the NinjaTrader platform is free to use for charting, market analysis, and live trading (the SIM version is free even without a funded account).
 
 * Name of company
-NinjaTrader,  LLC
+*	NinjaTrader,  LLC
 
 * When was the company incorporated?
 	Founded in 2003
