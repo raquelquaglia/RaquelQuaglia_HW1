@@ -42,18 +42,22 @@ NinjaTrader is building products and services which empower active traders to ea
 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
 C# and C++ Languages
 NinjaTrader uses CQG Continuum as its primary data provider for live brokerage accounts, although Rithmic is supported as well.
 
 ## Landscape:
 
 * What domain of the financial industry is the company in?
+
 	Investment Management & Fund Operators
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
+
 variety of financial activities, such as money transfers, depositing a check with your smartphone, bypassing a bank branch to apply for credit, raising money for a business startup, or managing your investments, generally without the assistance of a person.
 
 * What are the other major companies in this domain?
+
 	Best for Personal Finance: Vanguard Personal Advisor Services.
 Best for ETFs: Charles Schwab.
 Best for Art Investments: Masterworks.
@@ -91,18 +95,22 @@ NinjaTrader's top competitors are MultiCharts, INVESTools, TradingView. Despite 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
 	Futures trading on NinjaTrader is incredibly seamless, thanks to a plethora of tools and services available to support your trade. The company provides unlimited simulated futures trading, extensive historical data, unfiltered professional futures market data and a free 24-hour emergency trade desk. There are also 100+ indicators included on its platform as well as access to hundreds of third-party trading applications.
 NinjaTrader offers auto-trade algorithmic trading strategies across multiple future markets to eliminate emotional trading and save you time. Its advanced trade management feature gives you access to predefined trade exits and entries for great consistency with your trades. Traders enjoy free access to vast market analysis, advanced charting and trade simulation with NinjaTrader. It has the ability to place simulated trades, complete with an imaginary account and profit/loss summary. Sim trading can be especially helpful to newer traders who haven't had much practice placing trades—and dealing with the inevitable mistakes that happen, such as costly order entry mistakes (e.g., hitting BUY instead of SELL, trading more contracts than intended).
  
 
 * Why do you think that offering this product or service would benefit the company?
+
 The NinjaTrader platform is ideal for active traders who want lots of technical analysis tools. The platform boasts excellent charting, real-time analysis, customizable technical indicators, Chart Trader (a chart-based order entry tool), and thousands of apps and add-ons from 3rd-party developers.
 
 
 * What technologies would this additional product or service utilize?
+
 “Quants,” are the brains behind complex trading programs. Specialists in this area guide securities firms, investment banks and hedge funds in making informed decisions about markets, pricing and financial risk.
 
 * Why are these technologies appropriate for your solution?
+
 The platform supports all the usual order types, including market, limit, stop market, and stop-limit orders as well as advanced OCO (one cancels other) orders.
 
 NinjaTrader's ATM Strategies provide discretionary traders with semi-automated features to manage their positions. Alternatively, you can fully automate a strategy using a "point and click" construction for non-programmers, or by using NinjaTrader's C#-based trading framework.
